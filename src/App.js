@@ -1,4 +1,6 @@
-import React, { useRef } from "react";
+// https://www.youtube.com/watch?v=PyxsziqatFE&ab_channel=NicholasRenotte
+
+import React, {useRef} from "react";
 import "./App.css";
 import * as tf from "@tensorflow/tfjs";
 import * as posenet from "@tensorflow-models/posenet";
@@ -8,7 +10,7 @@ import { drawKeypoints, drawSkeleton } from "./utilities";
 function App() {
   const webcamRef = useRef(null);
   const canvasRef = useRef(null);
-
+  
   //  Load posenet
   const runPosenet = async () => {
     const net = await posenet.load({
@@ -39,6 +41,8 @@ function App() {
       // Make Detections
       const pose = await net.estimateSinglePose(video);
       console.log(pose);
+      console.log("CHECK")
+      console.log(tf.getBackend());    
 
       drawCanvas(pose, video, videoWidth, videoHeight, canvasRef);
     }
@@ -90,6 +94,8 @@ function App() {
       </header>
     </div>
   );
+
 }
+
 
 export default App;
