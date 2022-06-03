@@ -1,0 +1,6 @@
+{
+  "appId": "com.reign.demoapp",
+  "appName": "demoapp",
+  "webDir": "android/app/build",
+  "bundledWebRuntime": false
+}
