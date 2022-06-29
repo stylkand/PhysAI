@@ -9,7 +9,7 @@
 
 ## 📋**Description**
 
-This repository contains the implementation of a mobile App that helps the physiotherapist supervise patient's kinetic movements. 
+This repository contains the implementation of a mobile App that helps physiotherapists supervise patient's kinetic movements. 
 
 ## **Details**
 The App takes as input live video frames of the patient doing his workout.
