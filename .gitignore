@@ -1,28 +1,21 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+node_modules/
+.expo/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
 
-# training data
-/app/public/model
-/app/public/video/**/*.jpg
-
-# dependencies
-/**/node_modules/*
-/.pnp
-.pnp.js
-/**/Lib/*
-
-# testing
-/coverage
-
-# build
-/app/build
-
-# misc
+# macOS
 .DS_Store
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+*.tmp
+~$πλωματική.docx
+~$πλωματική_.docx
+~$πλωματική_cloud.docx
+~$Πειραματικά Δεδομένα.xlsx
+~$πλωματική_final.docx
+~$Διπλωματική.pptx
