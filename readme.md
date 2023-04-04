@@ -14,7 +14,7 @@ This repository contains the implementation of a mobile App that helps physiothe
 ## **Details**
 The App takes as input live video frames of the patient doing his workout.
 Then a pose estimation neural network is applied so certain keypoints appear on screen real-time.
-Finally a smart classification algorithm classifies the workout exercise and computes the number of iterations.
+Finally a smart classification algorithm classifies the workout exercise and computes the number of iterations accomplished.
 
 
 ### 👔Team Members
@@ -22,8 +22,8 @@ The following students worked together, each one on a discrete study field.
 
 | Name - GitHub                                     | Email                   |   Responsibilities   |
 |----------------------------------------------------------------|-------------------------|----------------------|
-| [Stylianos Kandylakis](https://github.com/stylkand/) |  <a href = "mailto:stelkcand@gmail.com" target="_blank"><img alt="gmail" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">   |  Deploy model to Smartphone operating systems  |
-| [Kitsos Orfanopoulos](https://github.com/kitsorfan)               | <a href = "mailto:kitsorfan@protonmail.com" target="_blank"><img alt="protonmail" src = "https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" ></a>| Create classification algorithm and fine-tune the model|
+| [Stylianos Kandylakis](https://github.com/stylkand/) |  <a href = "mailto:stelkcand@gmail.com" target="_blank"><img alt="gmail" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">   |  Create classification algorithm and fine-tune the model |
+| [Kitsos Orfanopoulos](https://github.com/kitsorfan)               | <a href = "mailto:kitsorfan@protonmail.com" target="_blank"><img alt="protonmail" src = "https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" ></a>|  Deploy model to Smartphone operating systems|
 
 
  ## Testing
