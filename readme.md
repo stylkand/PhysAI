@@ -22,7 +22,7 @@ The following students worked together, each one on a discrete study field.
 
 | Name - GitHub                                     | Email                   |   Responsibilities   |
 |----------------------------------------------------------------|-------------------------|----------------------|
-| [Stylianos Kandylakis](https://github.com/stylkand/) |  <a href = "mailto:stelkcand@gmail.com" target="_blank"><img alt="gmail" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">   |  Create classification algorithm and fine-tune the model |
+| [Stylianos Kandylakis](https://github.com/stylkand/) |  <a href = "mailto:kandstyl@gmail.com" target="_blank"><img alt="gmail" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">   |  Create classification algorithm and fine-tune the model |
 | [Kitsos Orfanopoulos](https://github.com/kitsorfan)               | <a href = "mailto:kitsorfan@protonmail.com" target="_blank"><img alt="protonmail" src = "https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" ></a>|  Deploy model to Smartphone operating systems|
 
 
